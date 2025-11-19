@@ -1,0 +1,12 @@
+# Python venv (파이썬 가상환경)
+venv/
+
+# 요람 PDF 저장 폴더
+data/pdfs/
+
+# VS Code 설정
+.vscode/
+
+# 캐시 파일
+__pycache__/
+*.pyc
