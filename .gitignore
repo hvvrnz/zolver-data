@@ -10,3 +10,6 @@ data/pdfs/
 # 캐시 파일
 __pycache__/
 *.pyc
+
+# 보안 파일
+.env
