@@ -18,4 +18,10 @@
 - Rule-based 전처리 규칙 고도화
 - Embedding 기반 유사도 매칭을 활용한 단과대/학과 자산 자동 매핑
 - 데이터 자산(Asset) 간 관계 그래프를 기반으로 한 End-to-End Data Lineage 자동화
-- llm_result_issue.md
+- ex).
+    PDF (page 5)
+    → raw_text
+    → LLM_input
+    → LLM_output(JSON)
+    → post_processed_json
+
