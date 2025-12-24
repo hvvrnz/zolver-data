@@ -1,5 +1,5 @@
 import re
-from sources.pdf_reader import pdf_to_text
+from src.sources.pdf_reader import pdf_to_text
 
 def newline_normalize(raw_text):
     rm_whitespace = re.sub(r'\s', ' ', raw_text) # 공백문자
