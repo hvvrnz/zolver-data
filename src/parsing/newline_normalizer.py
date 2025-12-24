@@ -8,5 +8,3 @@ def newline_normalize(raw_text):
 
     return rm_privmsg_2
 
-raw_text = pdf_to_text(2021, 5)
-print(newline_normalize(raw_text))
