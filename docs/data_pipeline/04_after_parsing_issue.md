@@ -124,4 +124,5 @@ def text_to_json_with_llm_ver2(raw_text):
 
 #### 정리
 JSON 구조화 자체는 안정화 단계
+
 Pre/Post-processing 중심으로 해결 가능성 높다고 보여짐.
